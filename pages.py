@@ -10,7 +10,7 @@ sp=open('site/services.html').read()
 sp=sp.replace('<div id="svc"></div>','<div id="svc">'+''.join(svc_block(c) for c in cats)+'</div>')
 open('site/services.html','w').write(sp)
 
-LOCAL={'TAX':'income tax return filing','SC-4':'GST registration and return filing','SC-1':'company and LLP registration','SC-7':'trademark registration','SC-6':'legal documentation and agreement drafting','SC-3':'payroll, PF and ESI','SC-5':'MSME, IEC, PF and ESI registration','SC-2':'ROC and RBI (FEMA) compliance'}
+LOCAL={'SC-8':'income tax return filing','SC-4':'GST registration and return filing','SC-1':'company and LLP registration','SC-7':'trademark registration','SC-6':'legal documentation and agreement drafting','SC-3':'payroll, PF and ESI','SC-5':'MSME, IEC, PF and ESI registration','SC-2':'ROC and RBI (FEMA) compliance'}
 for c in cats:
     others=' · '.join(f'<a href="/services/{o["slug"]}">{E(o["name"])}</a>' for o in cats if o['id']!=c['id'])
     kw=LOCAL.get(c['id'],c['name'].lower())
