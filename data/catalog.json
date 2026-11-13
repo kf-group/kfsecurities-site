@@ -30,6 +30,10 @@
   {
    "id": "SC-7",
    "name": "Intellectual Property Services"
+  },
+  {
+   "id": "SC-8",
+   "name": "Income Tax & TDS Services"
   }
  ],
  "services": [
@@ -732,6 +736,36 @@
    "id": "SV-140",
    "category_id": "SC-7",
    "name": "Cease & desist notice / reply to legal notice"
+  },
+  {
+   "id": "SV-141",
+   "category_id": "SC-8",
+   "name": "ITR Filing – Individuals (salary, no capital gains)"
+  },
+  {
+   "id": "SV-142",
+   "category_id": "SC-8",
+   "name": "ITR Filing – Individuals with capital gains"
+  },
+  {
+   "id": "SV-143",
+   "category_id": "SC-8",
+   "name": "ITR Filing – Business / profession"
+  },
+  {
+   "id": "SV-144",
+   "category_id": "SC-8",
+   "name": "NRI Income Tax Filing"
+  },
+  {
+   "id": "SV-145",
+   "category_id": "SC-8",
+   "name": "TDS Returns (quarterly)"
+  },
+  {
+   "id": "SV-146",
+   "category_id": "SC-8",
+   "name": "Reply to Income Tax Notice"
   }
  ]
 }
