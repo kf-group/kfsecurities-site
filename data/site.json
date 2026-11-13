@@ -1,0 +1,65 @@
+{
+ "_help": "Website-only settings. Services themselves come from KF Ledger (data/catalog.json is written by the Publish script). Use 'categories' to give a Ledger category a public name and one-line blurb, 'order' to set the order on the site, and 'hide_services' for Ledger service IDs that should not appear on the website. A new Ledger category with no entry here still shows, under its Ledger name.",
+ "order": [
+  "SC-1",
+  "TAX",
+  "SC-2",
+  "SC-3",
+  "SC-4",
+  "SC-5",
+  "SC-6",
+  "SC-7"
+ ],
+ "categories": {
+  "SC-1": {
+   "name": "Business setup & accounting",
+   "blurb": "Incorporate your company or LLP and keep the books in order."
+  },
+  "SC-2": {
+   "name": "ROC, company law & RBI compliance",
+   "blurb": "Annual filings, director changes, share transactions and RBI (FEMA) compliance."
+  },
+  "SC-3": {
+   "name": "Payroll services",
+   "blurb": "Salary structures, payslips, TDS and PF/ESI handled every month."
+  },
+  "SC-4": {
+   "name": "GST services",
+   "blurb": "Registration, monthly returns, annual returns, refunds and notices."
+  },
+  "SC-5": {
+   "name": "Registrations & licences",
+   "blurb": "LUT, IEC, MSME/Udyam, PF and ESI registrations and filings."
+  },
+  "SC-6": {
+   "name": "Legal documentation",
+   "blurb": "Agreements, deeds and policies drafted with our partner advocates."
+  },
+  "SC-7": {
+   "name": "Trademark & IP",
+   "blurb": "Trademarks, copyright, patents and designs: search, filing and defence."
+  }
+ },
+ "hide_services": [
+  "SV-099",
+  "SV-117",
+  "SV-118",
+  "SV-119",
+  "SV-120"
+ ],
+ "extra_categories": [
+  {
+   "id": "TAX",
+   "name": "Income tax & TDS",
+   "blurb": "Income tax returns for individuals, NRIs and businesses, TDS returns and tax notices.",
+   "services": [
+    "ITR Filing – Individuals (salary, no capital gains)",
+    "ITR Filing – Individuals with capital gains",
+    "ITR Filing – Business / profession",
+    "NRI Income Tax Filing",
+    "TDS Returns (quarterly)",
+    "Reply to Income Tax Notice"
+   ]
+  }
+ ]
+}

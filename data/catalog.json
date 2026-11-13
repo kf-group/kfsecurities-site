@@ -1,0 +1,737 @@
+{
+ "company_id": "CO-KFS",
+ "exported": "2026-11-14",
+ "source": "KF Ledger (Service Category + Service)",
+ "categories": [
+  {
+   "id": "SC-1",
+   "name": "Accounting & IT Filing Service"
+  },
+  {
+   "id": "SC-2",
+   "name": "RBI Compliance (incl. Company Law/ROC)"
+  },
+  {
+   "id": "SC-3",
+   "name": "Payroll Services"
+  },
+  {
+   "id": "SC-4",
+   "name": "GST Services"
+  },
+  {
+   "id": "SC-5",
+   "name": "In House Registration Services"
+  },
+  {
+   "id": "SC-6",
+   "name": "Legal Documentation"
+  },
+  {
+   "id": "SC-7",
+   "name": "Intellectual Property Services"
+  }
+ ],
+ "services": [
+  {
+   "id": "SV-001",
+   "category_id": "SC-1",
+   "name": "Incorporation of an OPC/Pvt Ltd"
+  },
+  {
+   "id": "SV-002",
+   "category_id": "SC-1",
+   "name": "Incorporation of an LLP"
+  },
+  {
+   "id": "SV-003",
+   "category_id": "SC-1",
+   "name": "Proprietors/Partnership/LLP compliance"
+  },
+  {
+   "id": "SV-004",
+   "category_id": "SC-1",
+   "name": "Secretarial services"
+  },
+  {
+   "id": "SV-005",
+   "category_id": "SC-1",
+   "name": "Accounting Services for Companies"
+  },
+  {
+   "id": "SV-006",
+   "category_id": "SC-2",
+   "name": "RBI & Secretarial Compliances for Investors"
+  },
+  {
+   "id": "SV-007",
+   "category_id": "SC-2",
+   "name": "Getting the RBI License for NBFC"
+  },
+  {
+   "id": "SV-008",
+   "category_id": "SC-2",
+   "name": "RBI Annual Return"
+  },
+  {
+   "id": "SV-009",
+   "category_id": "SC-2",
+   "name": "RBI Integration Form and Annual Return"
+  },
+  {
+   "id": "SV-010",
+   "category_id": "SC-2",
+   "name": "RBI Integration Form"
+  },
+  {
+   "id": "SV-011",
+   "category_id": "SC-2",
+   "name": "Proposal for setting up a company abroad"
+  },
+  {
+   "id": "SV-012",
+   "category_id": "SC-2",
+   "name": "Conversion of Loan to Equity Shares"
+  },
+  {
+   "id": "SV-013",
+   "category_id": "SC-2",
+   "name": "Proposal for obtaining loan"
+  },
+  {
+   "id": "SV-014",
+   "category_id": "SC-2",
+   "name": "Transfer of Equity Shares – RBI Compliances"
+  },
+  {
+   "id": "SV-015",
+   "category_id": "SC-2",
+   "name": "Removal of Director"
+  },
+  {
+   "id": "SV-016",
+   "category_id": "SC-2",
+   "name": "Replacement of Director"
+  },
+  {
+   "id": "SV-017",
+   "category_id": "SC-2",
+   "name": "Change of registered office address"
+  },
+  {
+   "id": "SV-018",
+   "category_id": "SC-2",
+   "name": "Revival of the company"
+  },
+  {
+   "id": "SV-019",
+   "category_id": "SC-2",
+   "name": "Transfer of Equity Shares"
+  },
+  {
+   "id": "SV-020",
+   "category_id": "SC-2",
+   "name": "Conversion of Private Company into Section 8"
+  },
+  {
+   "id": "SV-021",
+   "category_id": "SC-2",
+   "name": "Proposal for Dormant company"
+  },
+  {
+   "id": "SV-022",
+   "category_id": "SC-2",
+   "name": "Change in Main objectives of the Company"
+  },
+  {
+   "id": "SV-023",
+   "category_id": "SC-2",
+   "name": "Change in Company name"
+  },
+  {
+   "id": "SV-024",
+   "category_id": "SC-2",
+   "name": "Private Placement"
+  },
+  {
+   "id": "SV-025",
+   "category_id": "SC-2",
+   "name": "Private Placement – consideration other than cash"
+  },
+  {
+   "id": "SV-026",
+   "category_id": "SC-2",
+   "name": "Transfer of Shares – RBI"
+  },
+  {
+   "id": "SV-027",
+   "category_id": "SC-2",
+   "name": "Proposal for sub-division of shares"
+  },
+  {
+   "id": "SV-028",
+   "category_id": "SC-2",
+   "name": "Proposal for availing loan from a Body Corporate"
+  },
+  {
+   "id": "SV-029",
+   "category_id": "SC-2",
+   "name": "Proposal for DIR-3-KYC"
+  },
+  {
+   "id": "SV-030",
+   "category_id": "SC-2",
+   "name": "Proposal for surrender of DIN"
+  },
+  {
+   "id": "SV-031",
+   "category_id": "SC-2",
+   "name": "Closing the LLP"
+  },
+  {
+   "id": "SV-032",
+   "category_id": "SC-2",
+   "name": "Adding the Designated Partner"
+  },
+  {
+   "id": "SV-033",
+   "category_id": "SC-3",
+   "name": "Creation of Employee Compensation Structure (CTC)"
+  },
+  {
+   "id": "SV-034",
+   "category_id": "SC-3",
+   "name": "Maintaining records of all employees' absenteeism, bonus"
+  },
+  {
+   "id": "SV-035",
+   "category_id": "SC-3",
+   "name": "Salary Slip generation every month"
+  },
+  {
+   "id": "SV-036",
+   "category_id": "SC-3",
+   "name": "Creation of Employment Agreement (standard template)"
+  },
+  {
+   "id": "SV-037",
+   "category_id": "SC-3",
+   "name": "IT Filings for employees if applicable"
+  },
+  {
+   "id": "SV-038",
+   "category_id": "SC-3",
+   "name": "ESI & PF registration (one time)"
+  },
+  {
+   "id": "SV-039",
+   "category_id": "SC-3",
+   "name": "ESI & PF filings (monthly)"
+  },
+  {
+   "id": "SV-040",
+   "category_id": "SC-3",
+   "name": "TDS computation"
+  },
+  {
+   "id": "SV-041",
+   "category_id": "SC-4",
+   "name": "GST Registration"
+  },
+  {
+   "id": "SV-042",
+   "category_id": "SC-4",
+   "name": "GST Filings"
+  },
+  {
+   "id": "SV-043",
+   "category_id": "SC-4",
+   "name": "GST – ITC Refund"
+  },
+  {
+   "id": "SV-044",
+   "category_id": "SC-4",
+   "name": "GST – Reply to Notice"
+  },
+  {
+   "id": "SV-045",
+   "category_id": "SC-4",
+   "name": "Adding of a branch"
+  },
+  {
+   "id": "SV-046",
+   "category_id": "SC-4",
+   "name": "Adding of business"
+  },
+  {
+   "id": "SV-047",
+   "category_id": "SC-4",
+   "name": "GST Cancellation"
+  },
+  {
+   "id": "SV-048",
+   "category_id": "SC-4",
+   "name": "GST Revocation"
+  },
+  {
+   "id": "SV-049",
+   "category_id": "SC-4",
+   "name": "GSTR 9 (Annual Filing)"
+  },
+  {
+   "id": "SV-050",
+   "category_id": "SC-4",
+   "name": "GSTR 9C"
+  },
+  {
+   "id": "SV-051",
+   "category_id": "SC-5",
+   "name": "LUT Registration"
+  },
+  {
+   "id": "SV-052",
+   "category_id": "SC-5",
+   "name": "LUT Annual Filings"
+  },
+  {
+   "id": "SV-053",
+   "category_id": "SC-5",
+   "name": "Import and Export Code Application"
+  },
+  {
+   "id": "SV-054",
+   "category_id": "SC-5",
+   "name": "MSME Application"
+  },
+  {
+   "id": "SV-055",
+   "category_id": "SC-5",
+   "name": "PF Registration – Voluntary (Employees <20)"
+  },
+  {
+   "id": "SV-056",
+   "category_id": "SC-5",
+   "name": "PF Registration – Compulsory (Employees >20)"
+  },
+  {
+   "id": "SV-057",
+   "category_id": "SC-5",
+   "name": "PF filings (per month) – Employees <20"
+  },
+  {
+   "id": "SV-058",
+   "category_id": "SC-5",
+   "name": "PF filings (per month) – up to 50 employees"
+  },
+  {
+   "id": "SV-059",
+   "category_id": "SC-5",
+   "name": "ESI Registration – Voluntary (Employees <20)"
+  },
+  {
+   "id": "SV-060",
+   "category_id": "SC-5",
+   "name": "ESI Registration – Compulsory (Employees >20)"
+  },
+  {
+   "id": "SV-061",
+   "category_id": "SC-5",
+   "name": "ESI filings (per month) – Employees <20"
+  },
+  {
+   "id": "SV-062",
+   "category_id": "SC-5",
+   "name": "ESI filings (per month) – up to 50 employees"
+  },
+  {
+   "id": "SV-063",
+   "category_id": "SC-6",
+   "name": "Advisor Agreement"
+  },
+  {
+   "id": "SV-064",
+   "category_id": "SC-6",
+   "name": "Affiliate Agreement"
+  },
+  {
+   "id": "SV-065",
+   "category_id": "SC-6",
+   "name": "Asset Purchase Agreement"
+  },
+  {
+   "id": "SV-066",
+   "category_id": "SC-6",
+   "name": "Business Incubation Agreement"
+  },
+  {
+   "id": "SV-067",
+   "category_id": "SC-6",
+   "name": "Channel Partner Agreement"
+  },
+  {
+   "id": "SV-068",
+   "category_id": "SC-6",
+   "name": "Consultancy Agreement"
+  },
+  {
+   "id": "SV-069",
+   "category_id": "SC-6",
+   "name": "Convertible Debenture Agreement"
+  },
+  {
+   "id": "SV-070",
+   "category_id": "SC-6",
+   "name": "Disclaimer"
+  },
+  {
+   "id": "SV-071",
+   "category_id": "SC-6",
+   "name": "Distributor's Agreement"
+  },
+  {
+   "id": "SV-072",
+   "category_id": "SC-6",
+   "name": "Founders' Agreement"
+  },
+  {
+   "id": "SV-073",
+   "category_id": "SC-6",
+   "name": "Franchise Agreement"
+  },
+  {
+   "id": "SV-074",
+   "category_id": "SC-6",
+   "name": "GDPR (compliance review/docs)"
+  },
+  {
+   "id": "SV-075",
+   "category_id": "SC-6",
+   "name": "Detailed Legal Opinion from an Expert"
+  },
+  {
+   "id": "SV-076",
+   "category_id": "SC-6",
+   "name": "Hire/Purchase Agreement"
+  },
+  {
+   "id": "SV-077",
+   "category_id": "SC-6",
+   "name": "Import Agreement"
+  },
+  {
+   "id": "SV-078",
+   "category_id": "SC-6",
+   "name": "Increase authorized capital"
+  },
+  {
+   "id": "SV-079",
+   "category_id": "SC-6",
+   "name": "Increase paid-up capital"
+  },
+  {
+   "id": "SV-080",
+   "category_id": "SC-6",
+   "name": "IP Assignment Agreement"
+  },
+  {
+   "id": "SV-081",
+   "category_id": "SC-6",
+   "name": "IP License Agreement"
+  },
+  {
+   "id": "SV-082",
+   "category_id": "SC-6",
+   "name": "Investment Memorandum"
+  },
+  {
+   "id": "SV-083",
+   "category_id": "SC-6",
+   "name": "Issue of shares"
+  },
+  {
+   "id": "SV-084",
+   "category_id": "SC-6",
+   "name": "Joint Venture Agreement"
+  },
+  {
+   "id": "SV-085",
+   "category_id": "SC-6",
+   "name": "Leave and License Agreement"
+  },
+  {
+   "id": "SV-086",
+   "category_id": "SC-6",
+   "name": "Loan Agreement"
+  },
+  {
+   "id": "SV-087",
+   "category_id": "SC-6",
+   "name": "Make a Will"
+  },
+  {
+   "id": "SV-088",
+   "category_id": "SC-6",
+   "name": "Manufacturing Agreement"
+  },
+  {
+   "id": "SV-089",
+   "category_id": "SC-6",
+   "name": "Master Service Agreement"
+  },
+  {
+   "id": "SV-090",
+   "category_id": "SC-6",
+   "name": "Memorandum of Understanding (MoU)"
+  },
+  {
+   "id": "SV-091",
+   "category_id": "SC-6",
+   "name": "Merchant Banker Valuation"
+  },
+  {
+   "id": "SV-092",
+   "category_id": "SC-6",
+   "name": "Non-compete Agreement"
+  },
+  {
+   "id": "SV-093",
+   "category_id": "SC-6",
+   "name": "Non-Disclosure Agreement"
+  },
+  {
+   "id": "SV-094",
+   "category_id": "SC-6",
+   "name": "Non-solicitation Agreement"
+  },
+  {
+   "id": "SV-095",
+   "category_id": "SC-6",
+   "name": "One Transfer of Shares"
+  },
+  {
+   "id": "SV-096",
+   "category_id": "SC-6",
+   "name": "Partnership Firm Agreement"
+  },
+  {
+   "id": "SV-097",
+   "category_id": "SC-6",
+   "name": "Power of Attorney"
+  },
+  {
+   "id": "SV-098",
+   "category_id": "SC-6",
+   "name": "Bye-Laws of a Society"
+  },
+  {
+   "id": "SV-099",
+   "category_id": "SC-6",
+   "name": "Priority Charges"
+  },
+  {
+   "id": "SV-100",
+   "category_id": "SC-6",
+   "name": "Profit Sharing Agreement"
+  },
+  {
+   "id": "SV-101",
+   "category_id": "SC-6",
+   "name": "Refund and cancellation (docs)"
+  },
+  {
+   "id": "SV-102",
+   "category_id": "SC-6",
+   "name": "Registered Value Valuation"
+  },
+  {
+   "id": "SV-103",
+   "category_id": "SC-6",
+   "name": "Sale Deed"
+  },
+  {
+   "id": "SV-104",
+   "category_id": "SC-6",
+   "name": "Service Level Agreement"
+  },
+  {
+   "id": "SV-105",
+   "category_id": "SC-6",
+   "name": "Share Purchase Agreement"
+  },
+  {
+   "id": "SV-106",
+   "category_id": "SC-6",
+   "name": "Shareholders' Agreement"
+  },
+  {
+   "id": "SV-107",
+   "category_id": "SC-6",
+   "name": "Slump Sale Agreement"
+  },
+  {
+   "id": "SV-108",
+   "category_id": "SC-6",
+   "name": "Software Development Agreement"
+  },
+  {
+   "id": "SV-109",
+   "category_id": "SC-6",
+   "name": "Term Sheet"
+  },
+  {
+   "id": "SV-110",
+   "category_id": "SC-6",
+   "name": "Terms of Service + 5x Policies (Refund/Disclaimer/UGC)"
+  },
+  {
+   "id": "SV-111",
+   "category_id": "SC-6",
+   "name": "Terms of Service & Privacy Policy — Web & App"
+  },
+  {
+   "id": "SV-112",
+   "category_id": "SC-6",
+   "name": "Terms of Service & Privacy Policy — App"
+  },
+  {
+   "id": "SV-113",
+   "category_id": "SC-6",
+   "name": "Terms of Service & Privacy Policy — SaaS"
+  },
+  {
+   "id": "SV-114",
+   "category_id": "SC-6",
+   "name": "Terms of Service & Privacy Policy — Website"
+  },
+  {
+   "id": "SV-115",
+   "category_id": "SC-6",
+   "name": "Trust Deed"
+  },
+  {
+   "id": "SV-116",
+   "category_id": "SC-6",
+   "name": "Vendor Agreement"
+  },
+  {
+   "id": "SV-117",
+   "category_id": "SC-6",
+   "name": "Simple Documents (complexity-tiered drafting)"
+  },
+  {
+   "id": "SV-118",
+   "category_id": "SC-6",
+   "name": "Intermediate Documents (complexity-tiered drafting)"
+  },
+  {
+   "id": "SV-119",
+   "category_id": "SC-6",
+   "name": "Complex Documents (complexity-tiered drafting)"
+  },
+  {
+   "id": "SV-120",
+   "category_id": "SC-6",
+   "name": "All other scenarios (catch-all)"
+  },
+  {
+   "id": "SV-121",
+   "category_id": "SC-7",
+   "name": "Trademark (search & filing)"
+  },
+  {
+   "id": "SV-122",
+   "category_id": "SC-7",
+   "name": "Copyright"
+  },
+  {
+   "id": "SV-123",
+   "category_id": "SC-7",
+   "name": "Patent Search"
+  },
+  {
+   "id": "SV-124",
+   "category_id": "SC-7",
+   "name": "Provisional Patent Filings"
+  },
+  {
+   "id": "SV-125",
+   "category_id": "SC-7",
+   "name": "Complete Specification Patent Application Filing"
+  },
+  {
+   "id": "SV-126",
+   "category_id": "SC-7",
+   "name": "Other Patent Services"
+  },
+  {
+   "id": "SV-127",
+   "category_id": "SC-7",
+   "name": "Design filing"
+  },
+  {
+   "id": "SV-128",
+   "category_id": "SC-7",
+   "name": "Design Search"
+  },
+  {
+   "id": "SV-129",
+   "category_id": "SC-7",
+   "name": "Trademark Application Change"
+  },
+  {
+   "id": "SV-130",
+   "category_id": "SC-7",
+   "name": "Trademark Renewal"
+  },
+  {
+   "id": "SV-131",
+   "category_id": "SC-7",
+   "name": "Trademark Transfer"
+  },
+  {
+   "id": "SV-132",
+   "category_id": "SC-7",
+   "name": "Trademark Withdrawal"
+  },
+  {
+   "id": "SV-133",
+   "category_id": "SC-7",
+   "name": "TM – Objection"
+  },
+  {
+   "id": "SV-134",
+   "category_id": "SC-7",
+   "name": "TM – Hearing"
+  },
+  {
+   "id": "SV-135",
+   "category_id": "SC-7",
+   "name": "TM – Opposition"
+  },
+  {
+   "id": "SV-136",
+   "category_id": "SC-7",
+   "name": "TM – Rectification filing"
+  },
+  {
+   "id": "SV-137",
+   "category_id": "SC-7",
+   "name": "Copyright – Objection"
+  },
+  {
+   "id": "SV-138",
+   "category_id": "SC-7",
+   "name": "Logo design – Basic"
+  },
+  {
+   "id": "SV-139",
+   "category_id": "SC-7",
+   "name": "Trademark Watch"
+  },
+  {
+   "id": "SV-140",
+   "category_id": "SC-7",
+   "name": "Cease & desist notice / reply to legal notice"
+  }
+ ]
+}
