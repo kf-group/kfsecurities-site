@@ -7,7 +7,7 @@ window.KFS = {
   // Razorpay Key ID (rzp_live_...) once the account is approved.
   razorpayKey: "",
   // Optional: Google Apps Script web-app URL that writes each request into KF Ledger as a Lead.
-  leadEndpoint: "",
+  leadEndpoint: "https://script.google.com/macros/s/AKfycbySNyw8xFL7WqlHEctiBCa2oktm5nlhi9FB0Y3tPHjSv242h24iYOjTiPEYeD4_rXdzZw/exec",
   // AMFI ARN for mutual fund distribution; shown on the investments page once filled in.
   arn: ""
 };
