@@ -766,6 +766,16 @@
    "id": "SV-146",
    "category_id": "SC-8",
    "name": "Reply to Income Tax Notice"
+  },
+  {
+   "id": "SV-165",
+   "category_id": "SC-5",
+   "name": "Digital Signature Certificate (Class 3) – new / renewal"
+  },
+  {
+   "id": "SV-166",
+   "category_id": "SC-5",
+   "name": "DSC token / USB dongle"
   }
  ]
 }
